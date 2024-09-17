@@ -2036,28 +2036,6 @@ PODS:
     - React-featureflags
     - React-graphics
     - React-ImageManager
-    - react-native-slider/common (= 4.5.2)
-    - React-NativeModulesApple
-    - React-RCTFabric
-    - React-rendererdebug
-    - React-utils
-    - ReactCodegen
-    - ReactCommon/turbomodule/bridging
-    - ReactCommon/turbomodule/core
-    - Yoga
-  - react-native-slider/common (4.5.2):
-    - DoubleConversion
-    - glog
-    - hermes-engine
-    - RCT-Folly (= 2024.01.01.00)
-    - RCTRequired
-    - RCTTypeSafety
-    - React-Core
-    - React-debug
-    - React-Fabric
-    - React-featureflags
-    - React-graphics
-    - React-ImageManager
     - React-NativeModulesApple
     - React-RCTFabric
     - React-rendererdebug
@@ -2357,26 +2335,7 @@ PODS:
     - React-perflogger (= 0.76.0-rc.6)
     - React-utils (= 0.76.0-rc.6)
   - RNCAsyncStorage (1.23.1):
-    - DoubleConversion
-    - glog
-    - hermes-engine
-    - RCT-Folly (= 2024.01.01.00)
-    - RCTRequired
-    - RCTTypeSafety
     - React-Core
-    - React-debug
-    - React-Fabric
-    - React-featureflags
-    - React-graphics
-    - React-ImageManager
-    - React-NativeModulesApple
-    - React-RCTFabric
-    - React-rendererdebug
-    - React-utils
-    - ReactCodegen
-    - ReactCommon/turbomodule/bridging
-    - ReactCommon/turbomodule/core
-    - Yoga
   - RNCMaskedView (0.3.1):
     - React-Core
   - RNCPicker (2.8.1):
@@ -3276,10 +3235,10 @@ SPEC CHECKSUMS:
   ExpoVideo: 08f4c5a7f225ae1381d28cc0f6fcc198255ca578
   ExpoVideoThumbnails: 910b69f603ed888da6f7543fce34c1ccf195d148
   ExpoWebBrowser: f331aa109e7eee380b43a52ec33f2351bc7d70df
-  EXSplashScreen: c8efdcce5fd100ac2c21fca9bb4cd44ee6016c09
+  EXSplashScreen: 9caa8b94e52b789a0f25727f8844f582fca766e2
   EXStructuredHeaders: 404356f2621ca76fd54e8c5c686091d0fa00cbc7
   EXTaskManager: 080da17150fba107155b6800be1370dd1a252c39
-  EXUpdates: 992e73bb96f83c8ed958949bb2475c883a3119ae
+  EXUpdates: 65dadd2a00b843b15bf3b37a40648bef44dc2e4f
   EXUpdatesInterface: 8d16d1242225d0bdb4d8db788349b522aa8e0343
   FBLazyVector: 319d66555ce769137a84559a19fb8197733a68e1
   fmt: 10c6e61f4be25dc963c36bd73fc7b1705fe975be
